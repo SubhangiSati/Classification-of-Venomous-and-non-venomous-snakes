@@ -1,4 +1,4 @@
-# Snake Venom Classification using Transfer Learning with MobileNetV2
+# Snake Classification (venomous/ non-venomous) using Transfer Learning with MobileNetV2
 
 ## Overview
 
@@ -71,4 +71,3 @@ python snake_venom_classification.py
 
 This code is licensed under the [MIT License](LICENSE).
 
-Feel free to customize and use this code for your snake venom classification tasks. If you find it helpful, consider providing attribution to the original source.
